@@ -147,9 +147,9 @@ int a = 3;
 用我们模拟器的话来说,可以是:
 
 ```
-int a = 3;
+Declare int a 3;
 Indent
-int a = 4;
+Declare int a 4;
 ```
 
 ### Dedent
